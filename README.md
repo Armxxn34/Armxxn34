@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armxxn34&theme=discord_old_blurple)](https://github.com/Armxxn34)
 
-[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=Armxxn34&repo=Slash-Example&theme=discord_old_blurple)](https://github.com/Armxxn34/SlashCommandTemplate)
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=Armxxn34&repo=SlashCommandTemplate&theme=discord_old_blurple)](https://github.com/Armxxn34/SlashCommandTemplate)
 
 - 🤔 Discord Developer and Moderator
 
